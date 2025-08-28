@@ -1,0 +1,1 @@
+ frameworks e bibliotecas são códigos escritos por outras pessoas ou você mesmo, que são usados para resolver problemas comuns. Mas a biblioteca você chama como quiser no seu código onde é necessario e o framework quando colocado em seu projeto diz a estrutura do seu projeto e o seu fluxo de trabalho.
